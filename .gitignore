@@ -1,0 +1,11 @@
+# Ignore build files
+bin/
+target/
+*.class
+
+# IDE specific files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
