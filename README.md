@@ -19,6 +19,8 @@ This repository contains multiple Spring programs, each in its own folder.
    - Location: `SpringProgram3/`  
    - How to Run: Open in IDE, run the `Main` class.  
    - Configuration: Uses `@Component` and `@Value` annotations for injecting values from properties or XML.
+  
+4. SpringProgram4
 
 ## Notes
 
