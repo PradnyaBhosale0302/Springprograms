@@ -21,6 +21,7 @@ public class SpringConfig {
 		a.setPincode(123456);
 		return a;
 	}
+	@Bean
 	public Subjects createSubjects()
 	{
 		Subjects s = new Subjects();
@@ -39,7 +40,7 @@ public class SpringConfig {
 		s.setName("Pradnya");
 		s.setRollno(222);
 //		s.setAddress(createAddress()); //Manually DI
-		s.setSubjects(createSubjects());
+//		s.setSubjects(createSubjects());
 		return s;
 	}
 }

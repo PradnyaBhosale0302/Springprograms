@@ -7,6 +7,8 @@ public class Student {
 	private int rollno;
 	@Autowired
 	private Address address;
+	
+	@Autowired
 	private Subjects subjects;
 	public Subjects getSubjects() {
 		return subjects;
