@@ -21,6 +21,7 @@ This repository contains multiple Spring programs, each in its own folder.
    - Configuration: Uses `@Component` and `@Value` annotations for injecting values from properties or XML.
   
 4. SpringProgram4
+5. SprinProgram5
 
 ## Notes
 
