@@ -23,6 +23,7 @@ This repository contains multiple Spring programs, each in its own folder.
 4. SpringProgram4
 5. SpringProgram5
 6. SpringProgram6
+7. SpringProgram7
 
 ## Notes
 
