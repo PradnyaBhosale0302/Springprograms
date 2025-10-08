@@ -27,6 +27,7 @@ This repository contains multiple Spring programs, each in its own folder.
 8. SpringProgram8
 9. SpringProgram9Autowiring
 10. SpringProgram10Autowiring
+11. SpringProgram11Autowiring
 
 ## Notes
 
